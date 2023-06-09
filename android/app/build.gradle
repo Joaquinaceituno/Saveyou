@@ -149,7 +149,7 @@ android {
 }
 
 plugin{
-    
+    id 'com.android.application'
 }
 
 dependencies {
