@@ -150,6 +150,7 @@ android {
 
 plugin{
     id 'com.android.application'
+    id 'com.google.gms.google-services'
 }
 
 dependencies {
